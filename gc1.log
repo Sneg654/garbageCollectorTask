@@ -1,0 +1,9 @@
+Java HotSpot(TM) Client VM (25.92-b14) for windows-x86 JRE (1.8.0_92-b14), built on Mar 31 2016 21:09:21 by "java_re" with MS VC++ 10.0 (VS2010)
+Memory: 4k page, physical 16649156k(4733824k free), swap 18877380k(4437824k free)
+CommandLine flags: -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=heapdump.hprof -XX:InitialHeapSize=268435456 -XX:MaxHeapSize=268435456 -XX:MaxNewSize=134217728 -XX:NewRatio=3 -XX:NewSize=134217728 -XX:+PrintGC -XX:+PrintGCTimeStamps -XX:-UseLargePagesIndividualAllocation 
+4.195: [Full GC (System.gc())  6297K->477K(249088K), 0.0035886 secs]
+17.706: [Full GC (System.gc())  2576K->477K(249088K), 0.0019725 secs]
+37.505: [Full GC (System.gc())  4676K->477K(249088K), 0.0021460 secs]
+65.825: [Full GC (System.gc())  2577K->471K(249088K), 0.0022448 secs]
+76.145: [Full GC (System.gc())  2571K->472K(249088K), 0.0022255 secs]
+93.497: [Full GC (System.gc())  2571K->472K(249088K), 0.0022291 secs]
